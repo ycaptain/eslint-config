@@ -1,0 +1,10 @@
+{
+  "name": "@ycaptain/eslint-config-monorepo",
+  "version": "0.1.0",
+  "author": "Captain Yao <cz.ycaptain@gmail.com> (https://github.com/ycaptain/)",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.20.1"
+  }
+}
