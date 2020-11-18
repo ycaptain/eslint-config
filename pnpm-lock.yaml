@@ -1,0 +1,18 @@
+importers:
+  packages/basic:
+    dependencies:
+      eslint-config-standard: 16.0.1
+    specifiers:
+      eslint-config-standard: ^16.0.1
+lockfileVersion: 5.2
+packages:
+  /eslint-config-standard/16.0.1:
+    dev: false
+    peerDependencies:
+      eslint: ^7.12.1
+      eslint-plugin-import: ^2.22.1
+      eslint-plugin-node: ^11.1.0
+      eslint-plugin-promise: ^4.2.1
+    resolution:
+      integrity: sha1-mjhe6if5a3kYy1PwfgHp0QzFZAE=
+      tarball: eslint-config-standard/download/eslint-config-standard-16.0.1.tgz
